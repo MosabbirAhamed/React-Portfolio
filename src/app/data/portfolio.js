@@ -11,9 +11,9 @@ export const PORTFOLIO = {
         'I design Furniture application with ReactJS. This website is lots of functionality. On this website almost all content is dynamic.',
       video: null,
       images: {
-        default: '/Asset/portfolio/furniture-main.png',
+        default: '/Asset/portfolio/furniture-main.jpg',
         variants: [
-          '/Asset/portfolio/furniture-3.png',
+          '/Asset/portfolio/furniture-3.jpg',
           '/Asset/portfolio/furniture-2.png',
         ],
       },
@@ -29,10 +29,10 @@ export const PORTFOLIO = {
         'This is a movie all where you can watch, download movies',
       video: null,
       images: {
-        default: '/Asset/portfolio/netflix-main.png',
+        default: '/Asset/portfolio/netflix-main.jpg',
         variants: [
-          '/Asset/portfolio/netflix.png',
-          '/Asset/portfolio/netflix.png',
+          '/Asset/portfolio/netflix.jpg',
+          '/Asset/portfolio/netflix.jpg',
         ],
       },
       link: 'https://netfilx-beta.netlify.app/',
@@ -46,10 +46,10 @@ export const PORTFOLIO = {
         ' I bulid Zomato clone application with React.js. This website is lots of functionality. On this website almost all content is dynamic.',
       video: null,
       images: {
-        default: '/Asset/portfolio/zomato-main.png',
+        default: '/Asset/portfolio/zomato-main.jpg',
         variants: [
-          '/Asset/portfolio/zomato-2.png',
-          '/Asset/portfolio/zomato-3.png',
+          '/Asset/portfolio/zomato-2.jpg',
+          '/Asset/portfolio/zomato-3.jpg',
         ],
       },
       link: 'https://zomato-clone-by-mosabbir.netlify.app/',
@@ -63,10 +63,10 @@ export const PORTFOLIO = {
         ' I design RESTAURANT application with Html, Css, JavaScript. On this website almost all content is dynamic.',
       video: null,
       images: {
-        default: '/Asset/portfolio/resturent.png',
+        default: '/Asset/portfolio/resturent.jpg',
         variants: [
-          '/Asset/portfolio/resturent-2.png',
-          '/Asset/portfolio/resturent-2.png',
+          '/Asset/portfolio/resturent-2.jpg',
+          '/Asset/portfolio/resturent-2.jpg',
         ],
       },
       link: 'https://mosabbirahamed.github.io/RESTAURANT/',
