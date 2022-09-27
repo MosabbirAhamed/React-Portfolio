@@ -6,6 +6,6 @@ export const HERO = {
     bgImage: "/Asset/hero_bg.jpg",
     button: {
         text: "My Resume",
-        url: "https://drive.google.com/file/d/1B-C96pv9Otodxi_5JALN6cO4KqEQG5r_/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1cnzcDvKnaibUJ3XTHuXOmutfnOlAkAXT/view?usp=sharing"
     }
 }
