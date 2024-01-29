@@ -21,6 +21,10 @@ export const HEADER = {
       to: "Portfolio",
     },
     {
+      name: "Gallery",
+      to: "Blogs",
+    },
+    {
       name: "Contact",
       to: "Contact",
     },
