@@ -3,7 +3,7 @@ import { AiFillLinkedin, AiFillTwitterCircle, AiFillGithub, AiFillFacebook, AiFi
 export const SOCIAL_ICONS = [
     {
         icon: <AiFillLinkedin size={23} />,
-        href: "https://www.linkedin.com/in/mosabbir-ahamed-101346220/"
+        href: "https://www.linkedin.com/in/mosabbir-ahamed/"
     },
     {
         icon: <AiFillInstagram size={23} />,

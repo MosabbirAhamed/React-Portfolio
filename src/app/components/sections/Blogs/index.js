@@ -4,8 +4,8 @@ import { BlogCard, SectionTitle } from "../../elements";
 import { BlogModal, PopUpWrapper } from "../../elements";
 
 // Import Swiper React components
-import { Autoplay, Scrollbar, A11y } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
+// import { Autoplay, Scrollbar, A11y } from "swiper";
+// import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
 import "swiper/css";
@@ -34,9 +34,17 @@ function Blogs() {
             subtitle={subtitle}
             typeWriter={typeWriter}
           />
-          <div className="flex flex-wrap justify-center mt-10 gap-x-5  max-w-5xl mx-auto">
+          <div className="flex flex-wrap justify-center gap-x-6 mx-auto">
             {/* ==== Blogs with SwiperSlide  ==== */}
-            <Swiper
+            {blogs.map((blog, index) => (
+              <BlogCard
+                key={index}
+                {...blog}
+                onClick={() => blogPopUpData(blog)}
+              />
+            ))}
+
+            {/* <Swiper
               spaceBetween={10}
               slidesPerView={3}
               scrollbar={{ draggable: true }}
@@ -70,10 +78,10 @@ function Blogs() {
                   />
                 </SwiperSlide>
               ))}
-            </Swiper>
+            </Swiper> */}
           </div>
         </div>
-      </section>  
+      </section>
       {/* ==== Blog Details Popup Modal ==== */}
       <PopUpWrapper open={open} nested onClose={closeModal}>
         <BlogModal onClose={closeModal} {...blogPopupData} />

@@ -4,6 +4,7 @@ import {
   About,
   Resume,
   Portfolio,
+  Blogs,
   Contact,
   Footer,
 } from "./app/components/sections";
@@ -16,6 +17,7 @@ function App() {
       <About />
       <Resume />
       <Portfolio />
+      <Blogs />
       <Contact />
       <Footer />
     </>
