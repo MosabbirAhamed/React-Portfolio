@@ -104,5 +104,77 @@ export const BLOGS = {
       content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
       The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
     },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-12.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-13.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-14.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-15.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-16.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-17.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-18.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
+    {
+      title: "How to Use Push Method In React Hooks?",
+      published_at: "2022-June-01",
+      image: '/Asset/blog/photo-19.jpg',
+      category: "TypeScript",
+      author: "kuldeeptarapara",
+      content: `The push () method is the process of adding one or more numbers of elements at the end of the array and returning with a new length of the array. Normally, the push method helps to add the value to the array. It is a convenient option for using bracket notation for assigning one or even more key-value pairs with the object.
+      The value gets easily assigned with the use of the push method. They are suitable options for adding the object to the end of the array. React hooks allows simpler code which is suitable for implementing similar functions faster even without any hassle. These are suitable options for implementing the React state along with the lifecycle method, even without any use of the writing class.`,
+    },
   ],
 };
