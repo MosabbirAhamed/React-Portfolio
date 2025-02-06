@@ -1,10 +1,10 @@
 export const COUNTERS = [
     {
-        count: 2,
+        count: 3,
         text: "Years<br />of Experience"
     },
     {
-        count: 12,
+        count: 128,
         text: "Projects<br />Completed"
     }
 ]
