@@ -7,65 +7,65 @@ export const RESUME = {
             year: "2018 - 2022",
             institution: "Naogaon Polytechnic Institute",
             subject: "Diploma in Electrical Engineering",
-            description: "I complete Diploma in Electrical Engineering, in this institute",
+            description: "Completed a Diploma in Electrical Engineering, gaining problem-solving and analytical skills."
         },
         {
             year: "2016 - 2018",
             institution: "Shibpur High School",
             subject: "SSC in Humanities",
-            description: "I studied in this school for many years and i done my SSC exam in there.",
+            description: "Completed my SSC in Humanities, developing strong communication and research abilities."
         }
     ],
     experience: [
         {
-            year: "2019 - Present",
-            company: "Fronted Web Developer",
-            role: "",
-            description: "I am learning frontend development for last 2 years.",
+            year: "2023 - Present",
+            company: "Tawab IT Ltd",
+            role: "Lead Generation Manager",
+            description: "Managing B2B lead generation, email outreach campaigns, and prospect research to drive business growth."
         },
         {
-            year: "2020 - Present",
-            company: "Web Developer",
-            role: "",
-            description: "I make website for fun and i build them by my brain cell.",
+            year: "2022 - 2023",
+            company: "Freelance",
+            role: "Lead Generation Specialist",
+            description: "Worked with international clients to provide high-quality B2B leads, targeted email lists, and LinkedIn prospecting services."
         }
     ],
     skills: [
         {
-            name: "Html",
+            name: "Lead Generation",
             parentage: 95
         },
         {
-            name: "Css",
-            parentage: 85
-        },
-        {
-            name: "JavaScript",
+            name: "B2B Marketing",
             parentage: 90
         },
         {
-            name: "React JS",
-            parentage: 90
+            name: "Email Outreach",
+            parentage: 95
         },
         {
-            name: "Next JS",
+            name: "LinkedIn Prospecting",
             parentage: 85
         },
         {
-            name: "Firebase",
+            name: "CRM Management",
+            parentage: 85
+        },
+        {
+            name: "Cold Emailing",
+            parentage: 90
+        },
+        {
+            name: "Sales Funnel Optimization",
             parentage: 80
         },
         {
-            name: "Tailwind Css",
+            name: "Market Research",
             parentage: 85
         },
         {
-            name: "Bootstrap",
-            parentage: 90
-        },
-        {
-            name: "JQuery",
-            parentage: 90
+            name: "Data Analysis",
+            parentage: 85
         }
     ]
 }
