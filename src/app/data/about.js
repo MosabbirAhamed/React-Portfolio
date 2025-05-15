@@ -1,13 +1,12 @@
 import { BiUserCheck } from "react-icons/bi";
 import { FaBusinessTime } from "react-icons/fa";
-import { MdEmail } from "react-icons/md";
 import { RiTeamFill } from "react-icons/ri";
 
 export const ABOUT = {
     title: "About Me",
     name: "Mosabbir Ahamed",
-    description: "I am a Lead Generation Manager specializing in B2B lead generation, email outreach, and digital marketing strategies. With a data-driven approach, I help businesses connect with potential clients and grow their revenue.",
-    exports: ['Lead Generation', 'Email Outreach', 'B2B Marketing'],
+    description: "I am a Lead Generation Expert specializing in B2B lead generation, email outreach, and digital marketing strategies. With a data-driven approach, I help businesses connect with potential clients and grow their revenue.",
+    exports: ['Lead Generation', 'Data Scraping', 'B2B Marketing'],
     image: "/Asset/me.jpeg",
     services: [
         {
@@ -21,9 +20,9 @@ export const ABOUT = {
             icon: <FaBusinessTime size={33} />
         },
         {
-            title: "Email Outreach",
-            text: "Optimizing cold email campaigns to improve conversion rates.",
-            icon: <MdEmail size={33} />
+            title: "Data Scraper",
+            text: "Extracting accurate and relevant data from various online sources efficiently.",
+            icon: <MdCloudDownload size={33} />
         },
         {
             title: "Client Acquisition",
